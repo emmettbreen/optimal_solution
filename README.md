@@ -5,7 +5,7 @@ Since these projects are used by Cornell University as curriculum in the Introdu
 
 However, the highlights of this project are as follows:
 - Application of Djikstra's algorithm to minimize the variance of line lengths in a text file with a model that takes the user through each iteration of the algorithm with the corresponding output
-- <img src="https://user-images.githubusercontent.com/90010213/146651706-f6b50d30-567e-4e63-b338-18b74458aa70.png" width = "700" height ="500"/>
+- <img src="https://user-images.githubusercontent.com/90010213/146651706-f6b50d30-567e-4e63-b338-18b74458aa70.png" width = "500" height ="400"/>
 - and a model that allows the user to change the desired line length and the objective function to use
 - <img src="https://user-images.githubusercontent.com/90010213/146651705-51dabbb1-14f5-4c09-b880-c8534230c109.png" width = "700" height ="400"/>
 - Application of Djikstra's algorithm to minimize the cost of maintaining an inventory of pipes with a toy example of how a small inventory can be modeled with a graph and how deciding what pipes ot store corresponds to paths in the graph
