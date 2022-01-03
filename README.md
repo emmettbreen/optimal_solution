@@ -11,4 +11,4 @@ However, the highlights of this project are as follows:
 - Application of Djikstra's algorithm to minimize the cost of maintaining an inventory of pipes with a toy example of how a small inventory can be modeled with a graph and how deciding what pipes ot store corresponds to paths in the graph
 - <img src="https://user-images.githubusercontent.com/90010213/146651708-d3caf062-73ea-41ac-a089-9f0beb027175.png" width = "500" height ="300"/>
 - and a full scale example with randomized demands that allows users to visualize the importance of Djikstra's algorithm for larger examples
-- <img src="https://user-images.githubusercontent.com/90010213/146651707-27123447-1b5b-47e5-995d-b4f3e687a3b0.png" width = "500" height ="300"/>
+- <img src="https://user-images.githubusercontent.com/90010213/146651707-27123447-1b5b-47e5-995d-b4f3e687a3b0.png" width = "650" height ="300"/>
